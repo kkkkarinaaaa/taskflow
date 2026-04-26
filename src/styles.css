@@ -32,3 +32,14 @@ button {
   text-decoration: line-through;
   color: gray;
 }
+.footer {
+  margin-top: 24px;
+  font-size: 14px;
+  color: #666;
+  text-align: center;
+}
+
+li {
+  padding: 8px 0;
+  cursor: pointer;
+}
