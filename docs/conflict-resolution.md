@@ -1,3 +1,3 @@
 # Conflict Resolution
 
-This document describes the manual process of resolving merge conflicts in the develop branch.
+This document explains how merge conflicts are created and manually resolved in Git during feature branch development.
